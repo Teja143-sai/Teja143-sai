@@ -71,6 +71,6 @@
 
 ### 📊 Contribution Matrix
 
-<img src="https://raw.githubusercontent.com/yogendra-labs/yogendra-labs/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Teja143-sai/Teja143-sai/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
 </div>
